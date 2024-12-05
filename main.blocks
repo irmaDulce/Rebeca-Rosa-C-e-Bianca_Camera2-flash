@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="T$7!WzU*iF]bSs}%0LQ8" x="0" y="0"><statement name="HANDLER"><block type="radio_set_group" id="a,WG7c.Fg9qB_rL|79Mr"><value name="ID"><shadow type="math_number_minmax" id="mD(wKVHp]*-S3kwKzK^U"><mutation min="0" max="255" label="Id" precision="0"></mutation><field name="SLIDER">1</field></shadow></value></block></statement></block><block type="radio_on_number_drag" id="M`i8rE${;*Je-_`wA/Hn" x="357" y="7"><value name="HANDLER_DRAG_PARAM_receivedNumber"><block type="argument_reporter_number" id="#NIgW4soW[(]Q@,Chb[6"><mutation duplicateondrag="true"></mutation><field name="VALUE">receivedNumber</field></block></value><statement name="HANDLER"><block type="basic_show_icon" id="pj_HVRa.{t[aqOP`rM#x"><field name="i">IconNames.SmallDiamond</field><next><block type="basic_show_icon" id="t}]YNIJg7@d%PSn/)6BE"><field name="i">IconNames.Diamond</field><next><block type="device_show_leds" id="q`)qj`_QwTHDs@:o,JE]"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></statement></block></xml>
